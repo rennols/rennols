@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 [![roadmap.sh](https://roadmap.sh/card/tall/661cae5dca9c84a97900d000?variant=dark)](https://roadmap.sh)
+
 ![Reno Septa Pradana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennols&count_private=true&show_icons=true&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennols&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
